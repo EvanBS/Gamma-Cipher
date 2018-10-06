@@ -1,0 +1,9 @@
+c:\users\иван\documents\visual studio 2015\Projects\Gamma\Gamma\bin\Debug\Gamma.exe.config
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\bin\Debug\Gamma.exe
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\bin\Debug\Gamma.pdb
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.csprojResolveAssemblyReference.cache
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.GammaClass.resources
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.Cache
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.exe
+C:\Users\Иван\documents\visual studio 2015\Projects\Gamma\Gamma\obj\Debug\Gamma.pdb
